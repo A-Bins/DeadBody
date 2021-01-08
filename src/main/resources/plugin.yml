@@ -1,0 +1,10 @@
+name: Corpse
+version: ${project.version}
+main: deadbody.main.Main
+api-version: 1.16
+authors: [ A_bins ]
+commands:
+  시체:
+  시체지우기:
+  Test:
+  얀데레비전:
